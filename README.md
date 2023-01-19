@@ -5,11 +5,11 @@ Practice repository for GoLang
 ```
 go build
 ```
-Compiles a bunch of go source code files and create their executable files. Eg: *go build main.go* will compile it and then creates an executable file as main/ main.exe 
+Compiles a bunch of go source code files and create their executable files. Eg: ***go build main.go*** will compile it and then creates an executable file as main/ main.exe 
 ```
 go run
 ```
-Compiles and executes one or multiple files Eg: *go run main.go test.go* compile and excutes both main & test files.
+Compiles and executes one or multiple files Eg: ***go run main.go test.go*** compile and excutes both main & test files.
 ```
 go fmt
 ```
