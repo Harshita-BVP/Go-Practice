@@ -16,8 +16,8 @@ package main
 
 	Multiple packages import:
 		import (
-			"<package name>",
-			"<package name>",
+			"<package name>"
+			"<package name>"
 			"<package name>"
 			...
 		)
@@ -30,6 +30,16 @@ other reusable packages can be imported in same way
 */
 import "fmt"
 
+/*
+	func <function name>(<list of arguments>) {
+		<function body>
+	}
+
+func is keyword to declare a function in go
+
+func main(): has a special purpose to be the entry point of an executable main file/ package
+*/
 func main() {
+	// Using Println function from fmt package to print out text
 	fmt.Println("Hello there!")
 }
