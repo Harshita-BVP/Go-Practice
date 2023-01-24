@@ -49,7 +49,13 @@ func main() {
 
 		Go is a STATIC-TYPED language which means that variables type are known at the compile time
 		As written below, `card` variable is declared of type string. Now, `card` can only be assinged
-		a string value. Assinging any other value other than string will produce an error.
+		a string value. Assinging a value other than string will produce an error.
+
+		-	This way of variable declaration can be used outside a function's body too
+		-	Also, variable can be declared and initialized with a value later
+			Like:
+			 	var <variable name> <variable type>
+				<variable name> = <variable value>
 	*/
 	var card string = "Ace of Spades"
 
@@ -62,7 +68,11 @@ func main() {
 			<variable name> := <variable value>
 
 		:= is the reserved symbol to declare and initialize a variable in Go. Go compiler inferes the type
-		of variable from its value.
+		of variable from its value
+
+		-	This abbreviated form of variable declaration can only be used inside a function's body and
+			NOT outside as it is considered a non-declaration statement. Using it outside a function's body
+			will produce error.
 	*/
 	altCard := "King of Heart"
 
