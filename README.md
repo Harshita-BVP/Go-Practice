@@ -3,7 +3,7 @@ Practice repository for GoLang
 ### Go Topics covered in this project
 - [x] Package Declaration & Import
 - [x] `main` package, file & function
-- [x] Variable Declaration & Initilization
+- [x] Variable Declaration & Initialization
 - [ ] Functions & thier Return Type
 - [ ] Slice 
 - [ ] Loops
