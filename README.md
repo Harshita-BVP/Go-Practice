@@ -1,5 +1,12 @@
 # Go-Practice
 Practice repository for GoLang
+## Go Topics covered in this project
+- [x] Package Declaration & Import
+- [x] `main` package, file & function
+- [x] Variable Declaration & Initilization
+- [ ] Functions & thier Return Type
+- [ ] Slice 
+- [ ] Loops
 
 # Go CLI
 ```
