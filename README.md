@@ -4,6 +4,7 @@ Practice repository for GoLang
 - [x] Package Declaration & Import
 - [x] `main` package, file & function
 - [x] Variable Declaration & Initialization
+- [x] Custom Type Declaration & Use
 - [ ] Functions & their Return Type
 - [ ] Multiple Return Types
 - [ ] Receiver Functions
