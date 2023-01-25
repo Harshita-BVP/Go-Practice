@@ -4,9 +4,15 @@ Practice repository for GoLang
 - [x] Package Declaration & Import
 - [x] `main` package, file & function
 - [x] Variable Declaration & Initialization
-- [ ] Functions & thier Return Type
+- [ ] Functions & their Return Type
+- [ ] Multiple Return Types
+- [ ] Receiver Functions
 - [ ] Slice 
 - [ ] Loops
+- [ ] Structs
+- [ ] Maps
+- [ ] Interface
+- [ ] Test Cases
 
 # Go CLI
 ```
