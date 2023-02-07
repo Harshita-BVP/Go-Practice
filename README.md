@@ -1,5 +1,19 @@
 # Go-Practice
 Practice repository for GoLang
+### Go Topics covered in this project
+- [x] Package Declaration & Import
+- [x] `main` package, file & function
+- [x] Variable Declaration & Initialization
+- [x] Custom Type Declaration & Use
+- [ ] Functions & their Return Type
+- [ ] Multiple Return Types
+- [ ] Receiver Functions
+- [ ] Slice 
+- [ ] Loops
+- [ ] Structs
+- [ ] Maps
+- [ ] Interface
+- [ ] Test Cases
 
 # Go CLI
 ```
